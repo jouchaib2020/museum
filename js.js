@@ -6,7 +6,7 @@ gsap.timeline()
       rotateY: (i)=> i*-36,
       transformOrigin: '50% 50% 500px',
       z: -500,
-      backgroundImage:(i)=>'url(/images/museum/im'+i+'.jpg)',
+      backgroundImage:(i)=>'url(images/museum/im'+i+'.jpg)',
       backgroundPosition:(i)=>getBgPos(i),
       backfaceVisibility:'hidden'
     })    
