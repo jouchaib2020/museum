@@ -36,7 +36,7 @@ svg {
 #canvas {
   width: 100vw;
   height: 100vh;
-  background-image: url("https://i.pinimg.com/564x/cc/85/71/cc857142685feea57f27dc5a4463d23b.jpg");
+  background-image: url("/images/musm.jpg");
 }
 .title {
   padding: 20px;
